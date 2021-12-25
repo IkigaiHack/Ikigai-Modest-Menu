@@ -1,6 +1,6 @@
 # IkigaiHack-KiddstonUpdate-
 
-Renewed Cheats for GTA V
+Renewed Cheats for GTA V ONLINE/OFFLINE
 
 
 

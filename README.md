@@ -17,5 +17,9 @@ Renewed Cheats for GTA V ONLINE/OFFLINE
 # Virus scan 
 ![ssssaaa](https://user-images.githubusercontent.com/79818491/147390188-4e2cd483-6eba-47d0-999a-7ba9e964ff76.png)
 
-
+# Usage:
+- open folder
+- Turn on GTA V
+- Enable modest-menu.exe
+- 
 I wish you a nice game - IkigaiHack

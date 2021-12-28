@@ -17,6 +17,15 @@ Renewed Cheats for GTA V ONLINE/OFFLINE
 # Virus scan 
 ![ssssaaa](https://user-images.githubusercontent.com/79818491/147390188-4e2cd483-6eba-47d0-999a-7ba9e964ff76.png)
 
+# Changelog:
+modest-menu v0.9.0 - July 31, 2021
+- Update for 2372 Tuner DLC
+- [Player] Add Aqualung
+- [Services] Removed money drop (patched in the new DLC).
+- [Services] Removed Increase Daily Limit, not sure if it's still safe.
+- [Hotkeys] Fix "ToggleAssistedAim" action.
+- Add Lua scripting
+
 # Usage:
 - open folder
 - Turn on GTA V

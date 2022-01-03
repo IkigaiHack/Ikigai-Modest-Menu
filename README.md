@@ -1,5 +1,6 @@
 # IkigaiHack-KiddstonUpdate-
-
+# TEMPORARILY TURNED OFF!!!!!
+# UPDATE 10.01.2022 :)
 Renewed Cheats for GTA V ONLINE/OFFLINE
 
 
